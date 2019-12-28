@@ -1,5 +1,5 @@
 #!bin/bash
-#by :dexter1999
+#by :HACKED AD
 echo -e "\e[1;36m"
 sleep 1
 echo   "  /\                         |\**/|"
